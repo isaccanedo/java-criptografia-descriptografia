@@ -4,6 +4,6 @@
 # Saída do console
 <b>Digite uma String:</b><br> 
 GITHUB<br>
-String simples          : GITHUB<br>
+<b>String simples          :</b> GITHUB<br>
 String criptografada    : oGu9AhYiNRBC+NOUPPKANw==<br>
 String descriptografada : GITHUB<br>
